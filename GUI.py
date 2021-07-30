@@ -1,3 +1,7 @@
+# link download data: https://drive.google.com/drive/folders/1QQHaO83KCC_1hguowVfkMu-cx4DvOOWZ?usp=sharing
+# link download file cfg: https://drive.google.com/drive/folders/1PauJfjGngCY47Nn-r2Mee5U-0_bl9MNb?usp=sharing
+# link download video: https://drive.google.com/drive/folders/1yRZ6ll5wuJpohwUZnGLfIx19L-xRCwsw?usp=sharing
+# link download file weight:https://drive.google.com/drive/folders/1bpAAmhQ1WE6kRO5Df-W5q0RxC35mFdMa?usp=sharing
 
 import numpy as np
 import math
